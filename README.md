@@ -10,7 +10,7 @@ The purpose of this project is to demonstrate skills and knowledge about the arc
 
 **Server:** Node.js, Espress, MongoDB
 
-**Full Stack:** Mern
+**Full Stack:** MERN
 
 
 ## Documentation
